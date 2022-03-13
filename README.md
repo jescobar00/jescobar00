@@ -9,10 +9,18 @@ I also developed apps on `C#`, `ASP.NET`, `VB`, and have knowledge in some front
 
 
 ### Reach me on:
-- [LinkedIn](https://ar.linkedin.com/in/joseds)
+<!-- - [LinkedIn](https://ar.linkedin.com/in/joseds)
+		<img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="20" height="20"> -->
 
+- <div style="vertical-align:middle;">
+	<a href="https://ar.linkedin.com/in/joseds">
+	<img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" 
+		alt="LinkedIn Profile" style="width:20px;height:20px;">LinkedIn
+	</a>
+</div>
 
 <!--
+[![](https://img.shields.io/badge/author-@KrauseFx-blue.svg?style=flat)](https://twitter.com/KrauseFx)
 **jescobar00/jescobar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,5 +46,3 @@ subject. It's thinking to be a management tool for an NGO that gives
 scholarships to students to complete their secondary and college
 education. Its name is Compañeros de Camino“
 -->
-
-
