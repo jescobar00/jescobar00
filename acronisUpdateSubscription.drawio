@@ -1,33 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T22:28:35.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="i97pDKqCq_A-87t_wvzN" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T17:15:52.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="re7Jc_TNLgh7EZN_go46" version="21.7.2" type="github">
   <diagram id="TDD3DlGXEbV9IOPgScCF" name="Página-1">
-    <mxGraphModel dx="2067" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-37" value="" style="dashed=0;fontSize=18;shape=mxgraph.gmdl.mail;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=0;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=3;flipH=0;flipV=0;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="521.15" y="250" width="32" height="22" as="geometry" />
+        <mxCell id="rIQfyR41lnT2qLLvc7yr-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="200" width="450" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-38" value="acronisUpdateSubscription" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="566.15" y="241" width="240" height="40" as="geometry" />
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-37" value="" style="dashed=0;fontSize=18;shape=mxgraph.gmdl.mail;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=0;fillColor=#000000;strokeColor=#36393d;strokeWidth=3;flipH=0;flipV=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="527" y="250" width="32" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-41" value="acronisLegacyCommitTierUpgrade" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="565.85" y="300" width="300" height="40" as="geometry" />
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-38" value="acronisUpdateSubscription" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="562" y="245" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-42" value="" style="dashed=0;fontSize=18;shape=mxgraph.gmdl.mail;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=0;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=3;flipH=0;flipV=0;spacing=5;" parent="1" vertex="1">
-          <mxGeometry x="520.85" y="309" width="32" height="22" as="geometry" />
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-41" value="acronisLegacyCommitTierUpgrade" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="562" y="305" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-48" value="&lt;div style=&quot;line-height: 15px; font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: rgb(77, 77, 77); font-size: 12px;&quot;&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;instance.attributeMap[&#39;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#ffff33&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;acronisLastSeenHere&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&#39;]&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#314354;fillColor=none;fontSize=12;spacing=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="311" width="310" height="20" as="geometry" />
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-42" value="" style="dashed=0;fontSize=18;shape=mxgraph.gmdl.mail;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=0;fillColor=#000000;strokeColor=#36393d;strokeWidth=3;flipH=0;flipV=0;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="527" y="309" width="32" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-50" value="&lt;div style=&quot;line-height: 15px; font-size: 15px;&quot;&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#e6db74&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;PUT &lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;.../tenants/${&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#00cc00&quot;&gt;tenantId&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#e6db74&quot;&gt;}/tier_level_value&lt;/font&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="561" y="200" width="390" height="30" as="geometry" />
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-48" value="&lt;div style=&quot;line-height: 15px; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;instance.attributeMap[&#39;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;acronisLastSeenHere&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&#39;]&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#314354;fillColor=none;fontSize=12;spacing=3;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="305" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-88" value="" style="dashed=0;html=1;shape=mxgraph.gmdl.upload;strokeColor=#314354;fillColor=#647687;labelBackgroundColor=#4D4D4D;fontSize=18;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="521.15" y="205" width="35" height="25" as="geometry" />
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-50" value="&lt;div style=&quot;line-height: 15px; font-size: 15px;&quot;&gt;&lt;font face=&quot;Consolas, Courier New, monospace&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;color: rgb(13, 13, 13); font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;PUT &lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;.../tenants/${&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;tenantId&lt;/font&gt;&lt;font style=&quot;color: rgb(13, 13, 13); font-size: 15px;&quot;&gt;}/tier_level_value&lt;/font&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="565.85" y="205" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-88" value="" style="dashed=0;html=1;shape=mxgraph.gmdl.upload;strokeColor=#6c8ebf;fillColor=#004C99;labelBackgroundColor=#4D4D4D;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="527" y="207.5" width="35" height="25" as="geometry" />
         </mxCell>
         <mxCell id="wjJ1wBpAPWjhshaP4NoO-98" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="wjJ1wBpAPWjhshaP4NoO-48" target="rIQfyR41lnT2qLLvc7yr-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="261" y="270" as="sourcePoint" />
+            <mxPoint x="280" y="310" as="sourcePoint" />
             <mxPoint x="506" y="266.72400000000005" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="320" />
@@ -35,29 +38,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-99" value="NON legacy account&amp;nbsp;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#4D4D4D;fontSize=12;fontColor=#FFFFFF;fillColor=none;" parent="wjJ1wBpAPWjhshaP4NoO-98" connectable="0" vertex="1">
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-99" value="Non &#xa;legacy accounts" style="edgeLabel;resizable=0;align=center;verticalAlign=middle;fillColor=none;spacing=4;fontSize=15;labelBorderColor=none;" parent="wjJ1wBpAPWjhshaP4NoO-98" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="47" as="offset" />
+            <mxPoint x="58" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wjJ1wBpAPWjhshaP4NoO-100" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="wjJ1wBpAPWjhshaP4NoO-48" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240.9968573224386" y="268.99999999999994" as="sourcePoint" />
+            <mxPoint x="270" y="300" as="sourcePoint" />
             <mxPoint x="520" y="320" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-101" value="legacy account&amp;nbsp;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#4D4D4D;fontSize=12;fontColor=#FFFFFF;fillColor=none;" parent="wjJ1wBpAPWjhshaP4NoO-100" connectable="0" vertex="1">
+        <mxCell id="wjJ1wBpAPWjhshaP4NoO-101" value="legacy account " style="edgeLabel;resizable=0;align=center;verticalAlign=middle;fillColor=none;spacing=2;fontSize=15;labelBorderColor=none;" parent="wjJ1wBpAPWjhshaP4NoO-100" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3" y="1" as="offset" />
+            <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rIQfyR41lnT2qLLvc7yr-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="200" width="430" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="rIQfyR41lnT2qLLvc7yr-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="wjJ1wBpAPWjhshaP4NoO-48">
+        <mxCell id="rIQfyR41lnT2qLLvc7yr-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="wjJ1wBpAPWjhshaP4NoO-48" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311" y="259.88571428571436" as="sourcePoint" />
+            <mxPoint x="280" y="320" as="sourcePoint" />
             <mxPoint x="520" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="320" />
@@ -65,13 +65,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rIQfyR41lnT2qLLvc7yr-9" value="(empty attibute or &lt;br&gt;value not matched)" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;labelBackgroundColor=#4D4D4D;fontSize=12;fontColor=#FFFFFF;fillColor=none;" connectable="0" vertex="1" parent="rIQfyR41lnT2qLLvc7yr-8">
+        <mxCell id="rIQfyR41lnT2qLLvc7yr-9" value="(empty attibute or &#xa;not matched value)" style="edgeLabel;resizable=0;align=center;verticalAlign=middle;fillColor=none;spacing=2;fontSize=15;labelBorderColor=none;" parent="rIQfyR41lnT2qLLvc7yr-8" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="44" as="offset" />
+            <mxPoint x="59" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rIQfyR41lnT2qLLvc7yr-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;(RAP will finish warning by error on execution)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="527" y="380" width="350" height="40" as="geometry" />
+        <mxCell id="rIQfyR41lnT2qLLvc7yr-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;(RAP will finish throwing an error on execution)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=2" parent="1" vertex="1">
+          <mxGeometry x="522" y="380" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQIJ30QJU-7x8_eASt65-10" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Acronis Update Subscription&lt;/h2&gt;The RAP determines if an account is non legacy by checking if the value of&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 76, 153); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; text-align: center;&quot;&gt;acronisLastSeenHere&lt;/b&gt;&amp;nbsp;matches with one of the elements in&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 76, 153); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; text-align: center;&quot;&gt;acronisNonLegacyAccounts&amp;nbsp;&lt;/b&gt;list.&amp;nbsp;&lt;br&gt;&lt;br&gt;Example of non legacy accounts set in&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; text-align: center;&quot; face=&quot;Consolas, Courier New, monospace&quot;&gt;vendor.attributeMap[&#39;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; text-align: center;&quot; face=&quot;Consolas, Courier New, monospace&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#004c99&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;acronisNonLegacyAccounts&lt;/b&gt;&lt;/font&gt;&#39;]:&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;i&gt;[&quot;caPax8Inc&quot;, &quot;ca02cadPax8Inc&quot;, &quot;euPax8inc&quot;, &quot;eu1Pax8Inc&quot;, &quot;eu2eurPax8Inc&quot;, &quot;eu5eurPax8Inc&quot;, &quot;eu8eurPax8Inc&quot;,&quot;fi01eurPax8Inc&quot;, &quot;usPax8Inc&quot;, &quot;us2Pax8Inc&quot;, &quot;auPax8Inc&quot;, &quot;nzpax8inc&quot;, &quot;sgPax8Inc&quot;, &quot;ID01USDPax8Inc&quot;, &quot;my01usdPax8inc&quot;]&lt;/i&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;fontSize=11;verticalAlign=top;horizontal=1;spacing=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="10" width="720" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
