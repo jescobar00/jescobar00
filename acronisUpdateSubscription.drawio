@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-09T17:17:01.252Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iCqg8hdWIHzTubPxKAB_" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-09T17:22:47.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RhzJXjUmBVrd5srgbWZq" version="21.7.2" type="github">
   <diagram id="TDD3DlGXEbV9IOPgScCF" name="Página-1">
-    <mxGraphModel dx="1598" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2429" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,21 +38,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-99" value="Non &#xa;legacy accounts" style="edgeLabel;resizable=0;align=center;verticalAlign=middle;fillColor=none;spacing=4;fontSize=15;labelBorderColor=none;" parent="wjJ1wBpAPWjhshaP4NoO-98" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="58" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wjJ1wBpAPWjhshaP4NoO-100" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="wjJ1wBpAPWjhshaP4NoO-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="300" as="sourcePoint" />
             <mxPoint x="520" y="320" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wjJ1wBpAPWjhshaP4NoO-101" value="legacy account " style="edgeLabel;resizable=0;align=center;verticalAlign=middle;fillColor=none;spacing=2;fontSize=15;labelBorderColor=none;" parent="wjJ1wBpAPWjhshaP4NoO-100" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rIQfyR41lnT2qLLvc7yr-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#FFFFFF;" parent="1" source="wjJ1wBpAPWjhshaP4NoO-48" edge="1">
@@ -65,16 +55,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rIQfyR41lnT2qLLvc7yr-9" value="(empty attibute or &#xa;not matched value)" style="edgeLabel;resizable=0;align=center;verticalAlign=middle;fillColor=none;spacing=2;fontSize=15;labelBorderColor=none;" parent="rIQfyR41lnT2qLLvc7yr-8" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="59" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rIQfyR41lnT2qLLvc7yr-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;(RAP will finish throwing an error on execution)&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="522" y="380" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oQIJ30QJU-7x8_eASt65-10" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Acronis Update Subscription&lt;/h2&gt;The RAP determines if an account is non legacy by checking if the value of&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 76, 153); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; text-align: center;&quot;&gt;acronisLastSeenHere&lt;/b&gt;&amp;nbsp;matches with one of the elements in&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 76, 153); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; text-align: center;&quot;&gt;acronisNonLegacyAccounts&amp;nbsp;&lt;/b&gt;list.&amp;nbsp;&lt;br&gt;&lt;br&gt;Example of non legacy accounts set in&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; text-align: center;&quot; face=&quot;Consolas, Courier New, monospace&quot;&gt;vendor.attributeMap[&#39;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px; text-align: center;&quot; face=&quot;Consolas, Courier New, monospace&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#004c99&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;acronisNonLegacyAccounts&lt;/b&gt;&lt;/font&gt;&#39;]:&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;i&gt;[&quot;caPax8Inc&quot;, &quot;ca02cadPax8Inc&quot;, &quot;euPax8inc&quot;, &quot;eu1Pax8Inc&quot;, &quot;eu2eurPax8Inc&quot;, &quot;eu5eurPax8Inc&quot;, &quot;eu8eurPax8Inc&quot;,&quot;fi01eurPax8Inc&quot;, &quot;usPax8Inc&quot;, &quot;us2Pax8Inc&quot;, &quot;auPax8Inc&quot;, &quot;nzpax8inc&quot;, &quot;sgPax8Inc&quot;, &quot;ID01USDPax8Inc&quot;, &quot;my01usdPax8inc&quot;]&lt;/i&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;fontSize=11;verticalAlign=top;horizontal=1;spacing=0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="10" width="720" height="150" as="geometry" />
+        <mxCell id="oQIJ30QJU-7x8_eASt65-10" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Acronis Update Subscription&lt;/h2&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;The RAP determines if an account is non legacy by checking if the value of&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 76, 153); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: center;&quot;&gt;acronisLastSeenHere&lt;/b&gt;&amp;nbsp;matches with one of the elements in&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 76, 153); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: center;&quot;&gt;acronisNonLegacyAccounts&amp;nbsp;&lt;/b&gt;list.&amp;nbsp;&lt;br&gt;&lt;br&gt;Example of non legacy accounts set in&amp;nbsp;&lt;font style=&quot;border-color: var(--border-color); text-align: center; font-size: 12px;&quot; face=&quot;Consolas, Courier New, monospace&quot;&gt;vendor.attributeMap[&#39;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color); text-align: center; font-size: 12px;&quot; face=&quot;Consolas, Courier New, monospace&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot; color=&quot;#004c99&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;acronisNonLegacyAccounts&lt;/b&gt;&lt;/font&gt;&#39;]:&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[&quot;caPax8Inc&quot;, &quot;ca02cadPax8Inc&quot;, &quot;euPax8inc&quot;, &quot;eu1Pax8Inc&quot;, &quot;eu2eurPax8Inc&quot;, &quot;eu5eurPax8Inc&quot;, &quot;eu8eurPax8Inc&quot;,&quot;fi01eurPax8Inc&quot;, &quot;usPax8Inc&quot;, &quot;us2Pax8Inc&quot;, &quot;auPax8Inc&quot;, &quot;nzpax8inc&quot;, &quot;sgPax8Inc&quot;, &quot;ID01USDPax8Inc&quot;, &quot;my01usdPax8inc&quot;]&lt;/font&gt;&lt;/i&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;fontSize=11;verticalAlign=top;horizontal=1;spacing=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="10" width="750" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oQIJ30QJU-7x8_eASt65-13" value="&lt;div&gt;Non&lt;/div&gt;&lt;div&gt;legacy accounts&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="225" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQIJ30QJU-7x8_eASt65-15" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;legacy accounts&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="301" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oQIJ30QJU-7x8_eASt65-16" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;(empty attibute &lt;br style=&quot;font-size: 11px;&quot;&gt;or not&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;matched value)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="364" y="380" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
